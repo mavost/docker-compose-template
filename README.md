@@ -1,10 +1,13 @@
 # A simple docker-compose template
 
-Revision: August 2022
+*Date:* 2022-09-28  
+*Author:* MvS  
+*keywords:* software-architecture, docker-compose
 
-**keywords**: software-architecture
+## Description
 
-*contacts*: Markus von Steht
+Use as a template for a docker-compose based image builds and deployments using a
+`Makefile` and an `.env` file for customization.
 
 ## Running the Docker compose pipeline
 
